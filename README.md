@@ -1,5 +1,10 @@
 # WenkuDownloader_new
 
+
+## 效果预览 / Preview / プレビュー
+
+![效果图](./屏幕截图(20).png)
+
 ## 中文
 本脚本基于 [Wenku Doc Downloader](https://greasyfork.org/en/scripts/435884-wenku-doc-downloader) 的工作，针对社科文库近期的修改进行了适应性调整，恢复了部分功能。
 
